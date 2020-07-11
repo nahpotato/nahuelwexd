@@ -1,6 +1,6 @@
 ### Hi there! 👋️😃️
 
-As this profile indicates, my name is Nahuel 😊️. Currently independent developer 💻️ and engineering student at the [National University of Córdoba](https://www.unc.edu.ar) 🏫️, in Argentina. I am passionate about free software and GNU/Linux systems 🐧️
+As this profile indicates, my name is Nahuel 😊️. Currently independent developer 💻️ and engineering student at the [Universidad Nacional de Córdoba](https://www.unc.edu.ar) 🏫️, in Argentina. I am passionate about free software and GNU/Linux systems 🐧️
 
 I dream that someday a world will arrive where humanity supports each other to get ahead, solving our conflicts with dialogue and not war.
 
