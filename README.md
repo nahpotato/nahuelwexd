@@ -40,7 +40,8 @@
 </p>
 
 <p>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=nahuelwexd&show_icons=true" alt="nahuelwexd">
+    &nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nahuelwexd&show_icons=true" alt="nahuelwexd">
 </p>
 
 <p align="center">
