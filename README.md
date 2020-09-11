@@ -35,9 +35,8 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </p>
 
-<p>
-    &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nahuelwexd&show_icons=true" alt="nahuelwexd">
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nahuelwexd&show_icons=true" alt="nahuelwexd">
 </p>
 
 <p align="center">
