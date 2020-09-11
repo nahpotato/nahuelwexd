@@ -14,7 +14,7 @@
 
 - 📫 You can reach me at **[Telegram](https://t.me/nahuelwexd)** or by **[e-mail](mailto:nahual_gomca@outlook.com.ar)**.
 
-<p align="left">
+<p align="center">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -33,10 +33,6 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-</p>
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelwexd&layout=compact&hide=html" alt="nahuelwexd">
 </p>
 
 <p>
