@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    A passionate free software developer from Argentina
+    A passionate free software developer based in Argentina
 </h3>
 
 - 🔭 I'm currently working on [Replay](https://github.com/nahuelwexd/Replay), an open source YouTube client for GNOME.
