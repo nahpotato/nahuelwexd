@@ -9,27 +9,36 @@
 - 🔭 I'm currently working on [Replay](https://github.com/nahuelwexd/Replay), an open source YouTube client for GNOME.
 - 🌱 I'm currently learning **React.js with TypeScript** and **GTK 4 with Vala**.
 - 💬 Ask me about **GTK with Vala or Python** or **backend development with Node.js**.
-- 📫 You can reach me at **[Telegram](https://t.me/nahuelwexd)** or by **[e-mail](mailto:nahual_gomca@outlook.com.ar)**.
+- 📫 You can reach me at **[Telegram](https://t.me/nahuelwexd)**, **<a rel="me" href="https://floss.social/@nahuelwexd">Mastodon</a>**, or by **[e-mail](mailto:nahual_gomca@outlook.com.ar)**.
 
 <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+    <img src="icons/bash.svg" alt="bash" width="40" height="40"/>
+    <img src="icons/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="icons/c.svg" alt="c" width="40" height="40" />
+    <img src="icons/csharp.svg" alt="csharp" width="40" height="40"/>
+    <img src="icons/css3.svg" alt="css3" width="40" height="40"/>
+    <img src="icons/dart.svg" alt="dart" width="40" height="40"/>
+    <img src="icons/docker.svg" alt="docker" width="40" height="40"/>
+    <img src="icons/dotnet.svg" alt="dotnet" width="40" height="40"/>
+    <img src="icons/express.svg" alt="express" width="40" height="40"/>
+    <img src="icons/flutter.svg" alt="flutter" width="40" height="40"/>
+    <img src="icons/git.svg" alt="git" width="40" height="40"/>
+    <img src="icons/go.svg" alt="go" width="40" height="40" />
+    <img src="icons/gtk.svg" alt="gtk" width="40" height="40" />
+    <img src="icons/heroku.svg" alt="heroku" width="40" height="40" />
+    <img src="icons/html5.svg" alt="html5" width="40" height="40" />
+    <img src="icons/inkscape.svg" alt="inkscape" width="40" height="40" />
+    <img src="icons/java.svg" alt="java" width="40" height="40" />
+    <img src="icons/javascript.svg" alt="javascript" width="40" height="40"/>
+    <img src="icons/linux.svg" alt="linux" width="40" height="40"/>
+    <img src="icons/mysql.svg" alt="mysql" width="40" height="40"/>
+    <img src="icons/nodejs.svg" alt="nodejs" width="40" height="40"/>
+    <img src="icons/python.svg" alt="python" width="40" height="40"/>
+    <img src="icons/react.svg" alt="react" width="40" height="40"/>
+    <img src="icons/sass.svg" alt="sass" width="40" height="40"/>
+    <img src="icons/sequelize.svg" alt="sequelize" width="40" height="40" />
+    <img src="icons/typescript.svg" alt="typescript" width="40" height="40" />
+    <img src="icons/vala.svg" alt="vala" width="40" height="40" />
 </p>
 
 <p align="center">
