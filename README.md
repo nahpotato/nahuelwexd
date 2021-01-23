@@ -7,11 +7,8 @@
 </h3>
 
 - 🔭 I'm currently working on [Replay](https://github.com/nahuelwexd/Replay), an open source YouTube client for GNOME.
-
 - 🌱 I'm currently learning **React.js with TypeScript** and **GTK 4 with Vala**.
-
 - 💬 Ask me about **GTK with Vala or Python** or **backend development with Node.js**.
-
 - 📫 You can reach me at **[Telegram](https://t.me/nahuelwexd)** or by **[e-mail](mailto:nahual_gomca@outlook.com.ar)**.
 
 <p align="center">
