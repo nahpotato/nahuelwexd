@@ -9,7 +9,7 @@
 - 🔭 I'm currently working on [Replay](https://github.com/nahuelwexd/Replay), an open source YouTube client for GNOME.
 - 🌱 I'm currently learning **React.js with TypeScript** and **GTK 4 with Vala**.
 - 💬 Ask me about **GTK with Vala or Python** or **web development with Node.js & React.js**.
-- 📫 You can reach me at **[Telegram](https://t.me/nahuelwexd)**, **<a rel="me" href="https://floss.social/@nahuelwexd">Mastodon</a>**, or by **[e-mail](mailto:nahual_gomca@outlook.com.ar)**.
+- 📫 You can reach me at **[Telegram](https://t.me/nahuelwexd)**, **<a rel="me" href="https://floss.social/@nahuelwexd">Mastodon</a>**, or by **[e-mail](mailto:contact@nahuelgomez.com.ar)**.
 
 <p align="center">
     <img src="icons/bash.svg" alt="bash" width="40" height="40"/>
