@@ -9,12 +9,10 @@
 
 
 - 🔭 I'm currently working on **[Replay](https://github.com/nahuelwexd/Replay)**, an open source YouTube client for GNOME
-
 - 👥 I usually contribute to projects such as **[Adwaita](https://gnome.pages.gitlab.gnome.org/libadwaita)** or **[Vala](https://wiki.gnome.org/Projects/Vala)**
-
 - 💬 Ask me about **[GTK](https://www.gtk.org)** with Python, Vala, C, or JavaScript; or about **[Flutter](https://flutter.dev)**
-
 - 📫 You can reach me at **[Telegram](https://t.me/nahuelwexd)**, the **[Fediverse](https://social.nahuelwexd.com/@nahuel)**, or by **[e-mail](mailto:nahuel@nahuelwexd.com)**
+
 
 <p align=center>
     <img src=images/bash.svg alt=bash width=40 height=40>
@@ -46,10 +44,12 @@
     <img src=images/vala.svg alt=vala width=40 height=40>
 </p>
 
+
 <p align=center>
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelwexd&layout=compact&hide=html alt=nahuelwexd>
     <img src=https://github-readme-stats.vercel.app/api?username=nahuelwexd&show_icons=true alt=nahuelwexd>
 </p>
+
 
 <p align=center>
     <a href=https://twitter.com/nahuelwexd target=blank>
