@@ -1,5 +1,5 @@
 <h1 align=center>
-    Hey there, I'm Nahu! <img src=images/blobwink.png height=40 width=40 align=center>
+    Hey there, I'm Nahu! <img src=images/blobwink.png height=30 width=30>
 </h1>
 
 
